@@ -32,7 +32,7 @@
       "assignment": true,
       "return": true
     }],
-    "react/no-children-prop": ["enabled", {
+    "react/no-children-prop": [1, {
       "allowFunctions": true
     }]
   },
