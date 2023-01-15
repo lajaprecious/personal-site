@@ -20,13 +20,14 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hi, I&apos;m Precious. I like building things.
-        I am a <a href="https://emu.edu.tr/">EMU</a> graduate, Lautech Alumni, and
-        the co-founder and CTO of <a href="https://eyita.com">Eyita</a>. Before Eyita I was
-        at <a href="https://matroid.com">Matroid</a>
-        , <a href="https://planet.com">Planet</a>
-        , <a href="https://planetaryresources.com">Planetary Resources</a>
-        , <a href="https://facebook.com">Facebook</a>
-        , and <a href="https://seds.org">SEDS</a>.
+        I&apos;m a M.Sc. graduate of Applied Mathematics and Computer Science from <a href="https://emu.edu.tr/">EMU</a>, a Lautech Alumni, and
+        the co-founder and CTO of <a href="https://eyita.com">Eyita</a>.
+        I&apos;ll teach you how to solve leetcode efficiently and systematically.
+        I&apos;ll simplify the concept so it&apos;s easy for you to understand.
+        Improve your performance in a tech interview.
+        I also offer detailed solutions and explanations for specific DSA questions.
+        Plus mock interview service, guidance with school project etc.
+        Please confirm a date with me before purchasing a gig.
       </p>
       <ul className="actions">
         <li>

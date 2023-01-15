@@ -1,6 +1,8 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
+import Pricing from '../components/Pricing/PricingTable';
+
 import Main from '../layouts/Main';
 
 const Index = () => (
@@ -26,6 +28,7 @@ const Index = () => (
         or <Link to="/contact">contact</Link> me.
       </p>
       <p> Source available <a href="https://github.com/lajaprecious/personal-site">here</a>.</p>
+      <Pricing />
     </article>
   </Main>
 );
